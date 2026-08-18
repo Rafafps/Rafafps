@@ -1,7 +1,7 @@
 <h1 align="center">Rafaella Ferreira Pinheiro Silva</h1>
 
 <p align="center">
-  AI • Backend • IoT 
+  Portfolio 
 </p>
 
 ---
